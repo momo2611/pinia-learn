@@ -28,12 +28,12 @@ npm run dev
 npm run build
 ```
 
-### Running json server
-## Install json-server
+## Running json server
+### Install json-server
 ```sh
 npm install json-server
 ```
-## Watching json
+### Watching json
 ```sh
 json-server -w ./data/db.json
 ```
