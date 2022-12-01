@@ -1,6 +1,6 @@
-# piana
+# Piana
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite and using Pinia.
 
 ## Recommended IDE Setup
 
@@ -26,4 +26,14 @@ npm run dev
 
 ```sh
 npm run build
+```
+
+### Running json server
+## Install json-server
+```sh
+npm install json-server
+```
+## Watching json
+```sh
+json-server -w ./data/db.json
 ```
